@@ -1,0 +1,5 @@
+# Ignore all TFRecord files anywhere in the repo
+*.tfrecord
+*.tfrecord.gz
+*.tfrecords
+*.tfrecords.gz
