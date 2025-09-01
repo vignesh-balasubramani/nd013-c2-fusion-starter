@@ -3,3 +3,4 @@
 *.tfrecord.gz
 *.tfrecords
 *.tfrecords.gz
+*.pth
